@@ -1,4 +1,3 @@
-# yolo-from-scratch
 # YOLO v1: Understanding the Architecture, Math, and Loss Function
 
 ## Introduction to YOLO v1
